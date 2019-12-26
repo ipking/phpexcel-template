@@ -1,0 +1,26 @@
+[
+    {
+        "id": "***",
+        "name": "K",
+        "sex": "男",
+        "age": "20",
+        "degree": "本科",
+        "currentArea": "深圳 宝安区",
+        "mobile": "1300000000",
+        "email": "1300000000@qq.com",
+        "school": "深圳大学",
+        "speciality": "金融管理"
+    },
+    {
+        "id": "***",
+        "name": "Y",
+        "sex": "女",
+        "age": "22",
+        "degree": "研究深",
+        "currentArea": "深圳 宝安区",
+        "mobile": "1300000000",
+        "email": "1300000000@qq.com",
+        "school": "深圳大学",
+        "speciality": "经济管理"
+    }
+]
